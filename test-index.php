@@ -61,4 +61,4 @@
 </body>
 </html>
 
-<!-- Aktueller Stand: Anna 22.11. 20 Uhr: 11 min; jQuery Easing plugin fehlt-->
+<!-- Aktueller Stand: Anna 02.12. 13 Uhr: 11 min; jQuery Easing plugin einbinden? / Riemke fragen-->
