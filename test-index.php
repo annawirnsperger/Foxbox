@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
+    
     <link href="test-template.css" rel="stylesheet">
 </head>
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
@@ -26,7 +26,7 @@
                 <ul class="nav navbar-nav">
                     <li class="page-scroll"><a href="#">Home</a></li>
                     <li class="page-scroll"><a href="#Über FoxBox">About</a></li>
-                    <li class="page-scroll"><a href="#Registrieren">Contact</a></li>
+                    <li class="page-scroll"><a href="#Registrieren">Registrieren</a></li>
                 </ul>
             </div><!--/.nav-collapse -->
         </div>
@@ -48,9 +48,17 @@
  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js"></script>
+    <script src="Frameworks/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
+    <script src="Frameworks/bootstrap-3.3.7-dist/jquery.easing/jquery.easing.1.1.1.js"></script>
+    <script src="Frameworks/bootstrap-3.3.7-dist/jquery.easing/jquery.easing.1.1.2.js"></script>
+    <script src="Frameworks/bootstrap-3.3.7-dist/jquery.easing/jquery.easing.1.2.js"></script>
+    <script src="Frameworks/bootstrap-3.3.7-dist/jquery.easing/jquery.easing.1.3.js"></script>
+    <script src="Frameworks/bootstrap-3.3.7-dist/jquery.easing/jquery.easing.1.3.min.js"></script>
+    <script src="Frameworks/bootstrap-3.3.7-dist/jquery.easing/jquery.easing.compatibility.js"></script>
+    <script src="Frameworks/bootstrap-3.3.7-dist/jquery.easing/jquery.easing.jquery.json"></script>
     <script src="test-scrolling-nav.js"></script>
+
 </body>
 </html>
 
-<!-- Aktueller Stand: Anna 22.11. 20 Uhr: Tutorial 11 min; jQuery Easing plugin fehlt + auf Bootstrap+js lokal zugreifen?-->
+<!-- Aktueller Stand: Anna 22.11. 20 Uhr: 11 min; jQuery Easing plugin fehlt-->
