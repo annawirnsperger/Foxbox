@@ -25,7 +25,7 @@
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <li class="page-scroll"><a href="#">Home</a></li>
-                    <li class="page-scroll"><a href="#Über FoxBox">About</a></li>
+                    <li class="page-scroll"><a href="#ÜberFoxBox">About</a></li>
                     <li class="page-scroll"><a href="#Registrieren">Registrieren</a></li>
                 </ul>
             </div><!--/.nav-collapse -->
@@ -36,7 +36,7 @@
         Hier ist die Home Seite
     </section>
 
-    <section id="Über FoxBox" class="über-section">
+    <section id="ÜberFoxBox" class="über-section">
         Hier ist die Über Seite
     </section>
 
@@ -47,15 +47,15 @@
     
  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
     <!-- Include all compiled plugins (below), or include individual files as needed -->
+
     <script src="Frameworks/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
-    <script src="Frameworks/bootstrap-3.3.7-dist/jquery.easing/jquery.easing.1.1.1.js"></script>
-    <script src="Frameworks/bootstrap-3.3.7-dist/jquery.easing/jquery.easing.1.1.2.js"></script>
-    <script src="Frameworks/bootstrap-3.3.7-dist/jquery.easing/jquery.easing.1.2.js"></script>
-    <script src="Frameworks/bootstrap-3.3.7-dist/jquery.easing/jquery.easing.1.3.js"></script>
+
+    <!-- Plugin JavaScript Easing -->
     <script src="Frameworks/bootstrap-3.3.7-dist/jquery.easing/jquery.easing.1.3.min.js"></script>
-    <script src="Frameworks/bootstrap-3.3.7-dist/jquery.easing/jquery.easing.compatibility.js"></script>
-    <script src="Frameworks/bootstrap-3.3.7-dist/jquery.easing/jquery.easing.jquery.json"></script>
+
+    <!-- Verweis auf JS-Datei für OnePager -->
     <script src="test-scrolling-nav.js"></script>
 
 </body>
