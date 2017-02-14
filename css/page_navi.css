@@ -1,0 +1,52 @@
+body {
+    font-size: 100%;
+}
+
+.navbar {
+    height: 5% !important;
+    background: #d2d2d2 !important;
+    border: none !important;
+    font-size: 0.95em; !important;
+}
+
+#nav_main li a {
+    color: white !important;
+    font-weight: bold !important;
+}
+
+.navbar .navbar-brand {
+    font-size: 1.3em !important;
+    color: darkorange !important;
+}
+
+
+.navbar-right li a {
+    color: white !important;
+    font-weight: bold !important;
+}
+
+ul.nav li.hover_needed a:hover {
+    background-color: #c2c2c2 !important;
+}
+
+.avatar_anzeige {
+    float: right !important;
+}
+
+.avatar_hello {
+    float: right !important;
+    margin-top: 4.5% !important;
+    width: 18% !important;
+    margin-right: 5.5% !important;
+    color: white !important;
+    font-size: 0.8em !important;
+    background-color: rgba(0,0,0,0.1);
+    border: 1px solid;
+    border-color: rgba(0,0,0,0.15);
+    border-radius: 0.5em;
+    padding-top: 0.5em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+
+

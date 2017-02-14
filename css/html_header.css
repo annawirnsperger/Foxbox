@@ -1,0 +1,207 @@
+/* Main */
+
+html, body {
+    height:100%;
+    width:100%;
+    font-family: 'Roboto', sans-serif, Verdana, Arial;
+    font-size: 100% !important;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+.form-group {
+    font-size: 1em;
+}
+
+.navbar {
+	height:5%;
+    background: #d2d2d2;
+    opacity:1;
+    color: white;
+    border: none;
+    z-index: 1;
+}
+
+#navbar li a {
+    color: white;
+    font-weight: bold;
+    font-size: 0.95em; !important;
+}
+
+li.hover_needed a:hover {
+    background-color: #c2c2c2 !important;
+}
+
+.navbar .navbar-brand {
+    font-size: 1.3em;
+    color: darkorange;
+}
+
+.navbar .navbar-brand:hover {
+    color:darkorange;
+
+}
+
+.navbar .navbar-brand:visited {
+    color:darkorange;
+
+}
+
+.navbar-default {
+    color:darkorange;
+}
+
+
+/* Home Section */
+
+.home-section {
+    height: auto!important;
+    min-height: 85%;
+    overflow: hidden;
+    padding-top: 4%;
+}
+
+.home-section h2 {
+    color: grey;
+    text-align:center;
+    font-size: 1.875em;
+}
+
+#Login_Well {
+    padding: 1% 2% 2% 2%;
+    width: 300px;
+    font-size: small;
+	margin:auto;
+    color: grey;
+	margin-bottom:7%;
+}
+
+#Login_Caption {
+    margin-top: 1%;
+}
+
+#nochkeinkonto {
+    font-size: 0.875em;
+}
+
+.alert-danger {
+    font-size: 0.875em;
+}
+
+/* Über Section */
+
+.über-section {
+    height: auto!important;
+    min-height: 85%;
+	padding-top:4%;
+    overflow: hidden;
+    background-color: rgba(230, 230, 230, 0.3);
+}
+
+.über-section p {
+    font-size: 0.875em;
+}
+
+#ÜberUnsText img {
+
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10%
+
+}
+
+#ÜberUnsText p {
+    color:black;
+    margin-top: 8%;
+    padding: 2% 2% 2% 2%;
+    text-align: justify;
+}
+
+#Meinungen {
+    margin-top: 5%;
+}
+
+
+
+
+/* Registrieren Section */
+
+.registrieren-section {
+    height: auto!important;
+    min-height: 90%;
+    overflow: hidden;
+    padding-top: 4%;
+	background-color: white;
+}
+
+#Signup_Well {
+    padding: 1% 2% 2% 2%;
+    width: 300px;
+	margin:auto;
+    font-size: small;
+    color: grey;
+}
+
+#Signup_Slogan {
+    text-align: center;
+    color: white;
+    font-size: 1.875em;
+}
+
+#Signup_Slogan2 {
+    margin-top:5%;
+	text-align:center;
+}
+
+#Advantages {
+
+    color: white;
+    padding: 20px 20px 20px 20px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+
+}
+
+#Advantages_Slogan {
+    font-size: 1.2em;
+    text-align: left;
+}
+
+#Advantages_Icon {
+
+    font-size: 24pt;
+    text-align: center;
+}
+
+#Advantages1, #Advantages2, #Advantages3, #Advantages4, #Advantages5 {
+
+    padding-top: 1%;
+}
+
+/* HTML-Footer */
+
+#footer {
+    height:10%;
+    width:100%;
+    background-color: rgba(230, 230, 230, 0.3);
+    text-align:center;
+    text-decoration:none;
+    color:grey;
+    position:relative;
+    font-size: 0.75em;
+}
+
+#footer a:link, #footer a:visited {
+    text-decoration: none;
+}
+
+#footer a:hover {
+    color: #777777
+}
+
+
+
+
+

@@ -1,0 +1,26 @@
+
+.Dateiauswahl {
+    border: 1px solid;
+
+}
+/* Main */
+
+html, body {
+    height:100%;
+    width:100%;
+    font-family: 'Roboto', sans-serif, Verdana, Arial;
+}
+
+h4 {
+    margin: 0 0 0 0;
+    padding-bottom: 5px;
+}
+
+#settings-container {
+	margin-top:5%;
+	position:absolute;
+	margin-left:5%;
+}
+
+/* Caption "Meine Einstellungen" in settings.php*/
+

@@ -1,0 +1,79 @@
+/* 1 Main */
+
+html, body {
+    height:100%;
+    width:100%;
+    font-size: 100%;
+    font-family: 'Roboto', sans-serif, Verdana, Arial;
+}
+
+h4 {
+    margin: 0 0 0 0;
+    padding-bottom: 5px;
+    font-size: 1.125em;
+}
+
+/* 2 Home-Elemente */
+
+#Wells_all {
+
+    margin-top:5%;
+}
+
+/* Caption "Meine Dateien" in home_elemente.php*/
+/*Ordner-Well in list_directory_and_files, list_directories und list_files*/
+
+
+/* 2.1 List Directories and Files*/
+
+.aktueller_ordner { /*Ordner-open-icon*/
+    font-size: 1em;
+    position: relative;
+    color: grey;
+    padding-left: 15px;
+    margin-top: 0;
+}
+
+.ordner_name{ /*Aktueller Ordnername*/
+    font-size: 1.125em;
+    color: #333333;
+}
+
+/* 2.2 Create and Upload*/
+
+#Ordner-erstellen-Well {
+    padding: 24px 24px 24px 24px;
+}
+
+/* Page-Footer */
+
+#footer {
+    height: 10%;
+    width: 100%;
+    background-color: rgba(230, 230, 230, 0.3);
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    position: fixed;
+	margin-top:20%;
+    bottom: 0;
+	left:0;
+	right:0;
+    font-size: 0.875em;
+}
+
+#footer a:link, #footer a:visited {
+    text-decoration: none;
+    color: white
+}
+
+#footer a:hover {
+    color: #777777
+}
+
+
+
+
+
+
+
